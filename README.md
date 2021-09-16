@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilgithub20" alt="shakilgithub20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@shakila00315385" target="blank"><img src="https://img.shields.io/twitter/follow/@shakila00315385?logo=twitter&style=for-the-badge" alt="@shakila00315385" /></a> </p>
+
 
 - 🌱 I’m currently learning **Laravel,Vue-js**
 
