@@ -1,6 +1,9 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
-<h3 align="center">I'm a student</h3>
+<p align="center">
+  <a href="https://github.com/Foysal87">
+    <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
 
