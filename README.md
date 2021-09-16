@@ -4,7 +4,11 @@
     <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </a>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7190C&height=60&lines=It%E2%80%99s+not+a+bug.+It%E2%80%99s+an+undocumented+feature!!!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7190C&height=60&lines=It%E2%80%99s+not+a+bug.+It%E2%80%99s+an+undocumented+feature!!!">
+</p>
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
 
