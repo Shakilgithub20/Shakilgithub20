@@ -60,6 +60,18 @@
   <br> 
 </p>
 <hr>
+<h3>my github activity</h3>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#11](https://github.com/wh0/snail-cli/issues/11) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+2. 💪 Opened PR [#28](https://github.com/fosscord/fosscord-landingpage/pull/28) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+3. 💪 Opened PR [#26](https://github.com/fosscord/fosscord-landingpage/pull/26) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+4. 🗣 Commented on [#24](https://github.com/fosscord/fosscord-landingpage/issues/24) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+5. 💪 Opened PR [#25](https://github.com/fosscord/fosscord-landingpage/pull/25) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+<!--END_SECTION:activity-->
+
+and here's a graph for people who like graphs: 
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakilgithub20&theme=github)
 
 ## 🙋 Let's Connect
