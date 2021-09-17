@@ -62,7 +62,7 @@
 <hr>
 
 
-and here's a graph for people who like graphs: 
+Activity: 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakilgithub20&theme=github)
 
