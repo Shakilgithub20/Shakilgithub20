@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F70707&height=60&lines=It%E2%80%99s+not+a+bug%2C+because;It%E2%80%99s+an+undocumented+feature!">
 </p>
 <hr/>
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
 
@@ -80,6 +79,9 @@ activity
 Activity: 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakilgithub20&theme=github)
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 
 ## 🙋 Let's Connect
 <p align="center">
