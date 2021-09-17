@@ -57,12 +57,10 @@
     </a>
   </div>
   <img src="https://github-profile-trophy.vercel.app/?username=Shakilgithub20&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
-  <br>
-  
+  <br> 
 </p>
-
 <hr>
-
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakilgithub20&theme=github)
 
 ## 🙋 Let's Connect
 <p align="center">
