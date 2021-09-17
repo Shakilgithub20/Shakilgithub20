@@ -9,8 +9,6 @@
 </p>
 <hr/>
 
-
-
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -45,11 +43,6 @@
   <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
 </p>
 
-<hr>
-activity
-<p align="center">
-  <img src="https://github.com/shakilgithub20/shakilgithub20/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
