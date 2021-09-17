@@ -10,7 +10,7 @@
 </p>
 <hr/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilgithub20" alt="shakilgithub20" /> </p>
 
@@ -39,6 +39,7 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
 <br>
 <p align=center>
   <div align=center>
