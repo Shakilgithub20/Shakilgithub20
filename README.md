@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70707&height=60&lines=It%E2%80%99s+not+a+bug.;It%E2%80%99s+an+undocumented+feature!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70707&height=60&lines=It%E2%80%99s+not+a+bug.+because;It%E2%80%99s+an+undocumented+feature!">
 </p>
 <hr/>
 
