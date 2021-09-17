@@ -4,15 +4,12 @@
     <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70707&height=60&lines=It%E2%80%99s+not+a+bug%2C+because;It%E2%80%99s+an+undocumented+feature!">
 </p>
 <hr/>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilgithub20" alt="shakilgithub20" /> </p>
 
 
 ## 👨‍💻 Tech Stack I am Familiar With
