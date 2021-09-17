@@ -36,16 +36,30 @@
 <p align="center">
   <img src="https://github.com/shakilgithub20/shakilgithub20/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<hr>
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sha_kil_ahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sha_kil_ahmed" /></a></p><br><br> -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilgithub20&show_icons=true&locale=en&layout=compact" alt="shakilgithub20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakilgithub20&show_icons=true&locale=en" alt="shakilgithub20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilgithub20&" alt="shakilgithub20" /></p>
-
+<hr>
 
 
 ## 🙋 Let's Connect
