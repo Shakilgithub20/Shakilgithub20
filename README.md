@@ -34,7 +34,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Shakilgithub20/Shakilgithub20/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Abhijay007/Abhijay007/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!-- <h3 align="left">Support:</h3>
