@@ -60,15 +60,9 @@ I'm Shakil Ahmed. Currently, I am student of Premier university department of Co
   <br> 
 </p>
 <hr>
-
-
 Activity: 
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shakilgithub20&theme=github)
-
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
-
 ## 🙋 Let's Connect
 <p align="center">
 	<a href="https://ekramasif.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
