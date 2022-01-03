@@ -10,7 +10,7 @@
 <hr/>
 <h2 align="center"> Who Am I</h2>
 <p align="center">
-I'm Shakil Ahmed. Currently, I am student of Premier university department of Computer Science & Engineering(7th semester). I choose IT branch because I always wanted to work for an IT Firm and to enhance my skills, I started learning courses on Laravel,vue-js,cyber security and other skill sets from Udemy,Coursera, nptel and many other sites.I can work towards my career goals in the technical field and i aim to make a difference in my community.
+I'm Shakil Ahmed. Currently, I am student of Premier university department of Computer Science & Engineering. I choose IT branch because I always wanted to work for an IT Firm and to enhance my skills, I started learning courses on Laravel,vue-js,cyber security and other skill sets from Udemy,Coursera, nptel and many other sites.I can work towards my career goals in the technical field and i aim to make a difference in my community.
 </P>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
