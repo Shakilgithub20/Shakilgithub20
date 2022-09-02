@@ -60,7 +60,7 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
   <br> 
 </p>
 <hr>
-[![](https://raw.githubusercontent.com/zjayers/zjayers-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/Shakilgithub20?tab=repositories)
+[![](https://raw.githubusercontent.com/Shakilgithub20/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/Shakilgithub20?tab=repositories)
 <hr>
 
 Activity: 
