@@ -38,9 +38,9 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 </p>
 
 <hr>
-<h3 align="center">
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Github Stats</b>
-<h3/>
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Github Stats</b>
+<h2/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
 <br>
 <p align=center>
