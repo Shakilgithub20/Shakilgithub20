@@ -42,7 +42,7 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Github Stats</b>
 <h2/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
