@@ -64,10 +64,10 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
   <br> 
 </p>
 <hr>
-[(https://raw.githubusercontent.com/Shakilgithub20/Shakilgithub20-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/Shakilgithub20?tab=repositories)
-<hr>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilgithub20&theme=github_dark&hide_border=true" />
-  <p align="center"> If you can dream it, you can do it🔥 </p>
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3Ashakilgithub20+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakilgithub20&theme=github_dark&utcOffset=4"  width="31%" alt="@Shakil's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Ashakilgithub20+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilgithub20&theme=github_dark&hide_border=true"  width="64%" alt="@Shakil's profile-details"/></a>
+</p>
 
 Activity: 
 
