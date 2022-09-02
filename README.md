@@ -62,6 +62,8 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 <hr>
 [![](https://raw.githubusercontent.com/Shakilgithub20/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/Shakilgithub20?tab=repositories)
 <hr>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilgithub20&theme=github_dark&hide_border=true" />
+  <p align="center"> If you can dream it, you can do it🔥 </p>
 
 Activity: 
 
