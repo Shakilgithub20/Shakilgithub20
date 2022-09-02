@@ -9,10 +9,7 @@
 </p>
 <hr/>
 <h2 align="center"> Who Am I</h2>
-<br/>
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://shakilahmed.me)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-ahmed-80589a1ab/)
-<br/>
+
 <p align="center">
 I'm Shakil Ahmed. Currently, I am student at Premier university department of Computer Science & Engineering. I choose IT branch because I always wanted to work for an IT Firm and to enhance my skills, I started learning courses on Laravel,vue-js,cyber security and other skill sets from Udemy,Coursera, nptel and many other sites.I can work towards my career goals in the technical field and i aim to make a difference in my community.
 </P>
@@ -42,7 +39,7 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 
 <hr>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b><h2 align="center">Github Stats<h2/></b>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilgithub20&label=Profile%20views&color=0e75b6&style=flat" alt="shakilgithub20" /> </p>
 <br>
 <p align=center>
