@@ -74,7 +74,10 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 
 <!-- [![](https://raw.githubusercontent.com/shakilgithub20/shakilgithub20-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/shakilgithub20?tab=repositories) -->
 <hr>
-Activity: 
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Activity</b>
+<h2/>
+
 
 ![Shakil's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shakilgithub20&theme=redical&hide_border=true&area=true)
 <!-- 
@@ -83,9 +86,9 @@ Activity:
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <h2 align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Let's Connect</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>🙋 Let's Connect</b>
 <h2/>
-## 🙋 Let's Connect
+
 <p align="center">
 	<a href="https://shakilgithub20.github.io/shakil_ahmed/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Shakilgithub20" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
