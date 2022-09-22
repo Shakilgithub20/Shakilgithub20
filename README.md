@@ -82,8 +82,8 @@ Activity:
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-## 🙋 Let's Connect
 <p align="center">
+## 🙋 Let's Connect
 	<a href="https://shakilgithub20.github.io/shakil_ahmed/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Shakilgithub20" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shakil-ahmed-80589a1ab/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
