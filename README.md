@@ -82,7 +82,9 @@ Activity:
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Let's Connect</b>
+<h2/>
 ## 🙋 Let's Connect
 <p align="center">
 	<a href="https://shakilgithub20.github.io/shakil_ahmed/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
