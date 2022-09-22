@@ -86,7 +86,7 @@ I'm Shakil Ahmed. Currently, I am student at Premier university department of Co
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <h2 align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>🙋 Let's Connect</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Let's Connect</b>
 <h2/>
 
 <p align="center">
