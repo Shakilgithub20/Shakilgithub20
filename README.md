@@ -11,7 +11,9 @@
 <h2 align="center"> Who Am I</h2>
 
 <p align="center">
-I'm Shakil Ahmed. Currently, I am student at Premier university department of Computer Science & Engineering. I choose IT branch because I always wanted to work for an IT Firm and to enhance my skills, I started learning courses on Laravel,vue-js,cyber security and other skill sets from Udemy,Coursera, nptel and many other sites.I can work towards my career goals in the technical field and i aim to make a difference in my community.
+👋 Hello, I'm Shakil Ahmed, Co-Founder at Terms Brain. Passionate about leveraging technology to drive meaningful change, I thrive in the intersection of Python programming, Data Analysis , MachineLearning and DeepLearning. With a deep-rooted curiosity and a dedication to constant learning, I've embarked on a journey to transform ideas into impactful solutions.
+As a co-founder of Terms Brain, I'm committed to revolutionizing how we approach data and insights. Whether I'm delving into complex data sets, architecting intuitive web experiences, or collaborating with fellow innovators, I'm driven by a vision of empowering better decision-making and driving innovation through data.
+Let's connect and explore the possibilities of creating a smarter, more connected world.
 </P>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
