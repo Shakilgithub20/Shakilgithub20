@@ -87,7 +87,7 @@ Let's connect and explore the possibilities of creating a smarter, more connecte
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shakilgithub20/output/snake.svg" alt="Snake animation" />
 
 ###
 
