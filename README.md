@@ -75,21 +75,13 @@ Let's connect and explore the possibilities of creating a smarter, more connecte
 
 
 <!-- [![](https://raw.githubusercontent.com/shakilgithub20/shakilgithub20-updated/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/shakilgithub20?tab=repositories) -->
-<hr>
-<h2 align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Activity</b>
-<h2/>
 
 
 
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/shakilgithub20/output/snake.svg" alt="Snake animation" />
 
-###
 
 <h2 align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> <b>Let's Connect</b>
